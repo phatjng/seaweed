@@ -1,0 +1,10 @@
+{
+  "name": "@seaweed/server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "hono": "4.6.3"
+  }
+}
