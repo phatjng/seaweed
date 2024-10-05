@@ -18,10 +18,6 @@ Seaweed is an open-source secret manager for development teams.
 
 Heavy work in progress.
 
-### Contributing
-
-Heavy work in progress.
-
 ### License
 
 Published under [AGLP-3.0](./LICENSE) license.

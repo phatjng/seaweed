@@ -3,10 +3,12 @@
   "license": "AGPL-3.0-only",
   "scripts": {},
   "devDependencies": {
+    "@types/luxon": "^3.4.2",
     "prettier": "^3.3.3",
     "typescript": "^5"
   },
   "dependencies": {
+    "luxon": "^3.5.0",
     "zod": "^3.23.8"
   },
   "workspaces": [
